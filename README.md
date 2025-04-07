@@ -1,4 +1,5 @@
 # 📚 Method Explorer
+<img width="100" alt="app-icon" src="https://github.com/user-attachments/assets/cfafab60-6ba2-4c20-9c14-b0abad2f3f1b" />
 
 A comprehensive JavaFX application that serves as an interactive reference guide for Java methods, designed to help developers quickly find, understand, and implement Java methods in their code.
 
